@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=out1 Pin=U1_U_DataAcq1-6
+Added Pin To Net: NetName=out2 Pin=U1_U_DataAcq2-6
+Added Pin To Net: NetName=out3 Pin=U1_U_DataAcq3-6
+Added Room: Name=WholeAdder

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=out1 Pin=R?_U_DataAcq1-1
+Removed Pin From Net: NetName=out2 Pin=R?_U_DataAcq2-1
+Removed Pin From Net: NetName=out3 Pin=R?_U_DataAcq3-1
+Removed Pin From Net: NetName=out1 Pin=U1_U_DataAcq1-6
+Removed Pin From Net: NetName=out2 Pin=U1_U_DataAcq2-6
+Removed Pin From Net: NetName=out3 Pin=U1_U_DataAcq3-6
+Added Pin To Net: NetName=out1 Pin=R?_U_DataAcq1-3
+Added Pin To Net: NetName=out2 Pin=R?_U_DataAcq2-3
+Added Pin To Net: NetName=out3 Pin=R?_U_DataAcq3-3
+Added Room: Name=WholeAdder

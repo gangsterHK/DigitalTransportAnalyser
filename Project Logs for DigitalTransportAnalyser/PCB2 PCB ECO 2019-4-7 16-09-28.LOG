@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=NetR1_U_DataAcq1_2 Pin=R2_U_DataAcq1-1
+Removed Pin From Net: NetName=out1 Pin=R2_U_DataAcq1-2
+Removed Pin From Net: NetName=NetR1_U_DataAcq2_2 Pin=R2_U_DataAcq2-1
+Removed Pin From Net: NetName=out2 Pin=R2_U_DataAcq2-2
+Removed Pin From Net: NetName=NetR1_U_DataAcq3_2 Pin=R2_U_DataAcq3-1
+Removed Pin From Net: NetName=out3 Pin=R2_U_DataAcq3-2
+Removed Member From Class: ClassName=U_DataAcq1 Member=R2_U_DataAcq1
+Removed Member From Class: ClassName=U_DataAcq2 Member=R2_U_DataAcq2
+Removed Member From Class: ClassName=U_DataAcq3 Member=R2_U_DataAcq3
+Added Component: Designator=R?_U_DataAcq1(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Variable Resistor, Thru-Hole; 3 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "VR3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Set Position"; Value = "0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sim Note"; Value = "Enter the Resistance value and the set point into parameter fields."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_DataAcq2(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Variable Resistor, Thru-Hole; 3 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "VR3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Set Position"; Value = "0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sim Note"; Value = "Enter the Resistance value and the set point into parameter fields."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_DataAcq3(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Variable Resistor, Thru-Hole; 3 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "VR3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Set Position"; Value = "0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sim Note"; Value = "Enter the Resistance value and the set point into parameter fields."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=out1 Pin=R?_U_DataAcq1-1
+Added Pin To Net: NetName=NetR1_U_DataAcq1_2 Pin=R?_U_DataAcq1-2
+Added Pin To Net: NetName=out2 Pin=R?_U_DataAcq2-1
+Added Pin To Net: NetName=NetR1_U_DataAcq2_2 Pin=R?_U_DataAcq2-2
+Added Pin To Net: NetName=out3 Pin=R?_U_DataAcq3-1
+Added Pin To Net: NetName=NetR1_U_DataAcq3_2 Pin=R?_U_DataAcq3-2
+Added Member To Class: ClassName=U_DataAcq1 Member=Component R?_U_DataAcq1 (R?) Res Tap
+Added Member To Class: ClassName=U_DataAcq2 Member=Component R?_U_DataAcq2 (R?) Res Tap
+Added Member To Class: ClassName=U_DataAcq3 Member=Component R?_U_DataAcq3 (R?) Res Tap
+Added Room: Name=WholeAdder

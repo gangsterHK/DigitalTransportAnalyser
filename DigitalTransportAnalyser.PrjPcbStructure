@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=WholeAdder.SchDoc
+Record=SheetSymbol|SourceDocument=WholeAdder.SchDoc|Designator=U_DataAcq1|SchDesignator=Repeat(U_DataAcq,1,3)|FileName=LPF.SchDoc|SymbolType=Normal|RawFileName=LPF.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=WholeAdder.SchDoc|Designator=U_DataAcq2|SchDesignator=Repeat(U_DataAcq,1,3)|FileName=LPF.SchDoc|SymbolType=Normal|RawFileName=LPF.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=WholeAdder.SchDoc|Designator=U_DataAcq3|SchDesignator=Repeat(U_DataAcq,1,3)|FileName=LPF.SchDoc|SymbolType=Normal|RawFileName=LPF.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
